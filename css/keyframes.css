@@ -1,0 +1,234 @@
+h1 span::after {
+  content: "";
+  animation: Headign__animation 5s infinite;
+}
+@keyframes Headign__animation {
+  0% {
+    content: "M";
+  }
+  1.33333333333333% {
+    content: "Mu";
+  }
+  2.66666666666667% {
+    content: "Muh";
+  }
+  4% {
+    content: "Muha";
+  }
+  5.33333333333333% {
+    content: "Muham";
+  }
+  6.66666666666667% {
+    content: "Muhame";
+  }
+  8% {
+    content: "Muhamed";
+  }
+  9.33333333333333% {
+    content: "Muhamed ";
+  }
+  10.6666666666667% {
+    content: "Muhamed H";
+  }
+  12% {
+    content: "Muhamed Ha";
+  }
+  13.3333333333333% {
+    content: "Muhamed Haj";
+  }
+  14.6666666666667% {
+    content: "Muhamed Haja";
+  }
+  16% {
+    content: "Muhamed Hajaj";
+  }
+  17.3333333333333% {
+    content: "Muhamed Hajaji";
+  }
+  18.6666666666667% {
+    content: "Muhamed Hajajii";
+  }
+  20% {
+    content: "Muhamed Hajajii";
+  }
+  21.3333333333333% {
+    content: "Muhamed Hajajii";
+  }
+  22.6666666666667% {
+    content: "Muhamed Hajajii";
+  }
+  24% {
+    content: "Muhamed Hajajii";
+  }
+  25.3333333333333% {
+    content: "Muhamed Hajajii";
+  }
+  26.6666666666667% {
+    content: "Muhamed Hajajii";
+  }
+  28% {
+    content: "Muhamed Hajajii";
+  }
+  29.3333333333333% {
+    content: "Muhamed Hajaji";
+  }
+  30.6666666666667% {
+    content: "Muhamed Hajaj";
+  }
+  32% {
+    content: "Muhamed Haja";
+  }
+  33.3333333333333% {
+    content: "Muhamed Haj";
+  }
+  34.6666666666667% {
+    content: "Muhamed Ha";
+  }
+  36% {
+    content: "Muhamed H";
+  }
+  37.3333333333333% {
+    content: "Muhamed ";
+  }
+  38.6666666666667% {
+    content: "Muhamed";
+  }
+  40% {
+    content: "Muhame";
+  }
+  41.3333333333333% {
+    content: "Muham";
+  }
+  42.6666666666667% {
+    content: "Muha";
+  }
+  44% {
+    content: "Muh";
+  }
+  45.3333333333333% {
+    content: "Mu";
+  }
+  46.6666666666667% {
+    content: "M";
+  }
+  48% {
+    content: "D";
+  }
+  49.3333333333333% {
+    content: "De";
+  }
+  50.6666666666667% {
+    content: "Dev";
+  }
+  52% {
+    content: "Deve";
+  }
+  53.3333333333334% {
+    content: "Devel";
+  }
+  54.6666666666667% {
+    content: "Develo";
+  }
+  56% {
+    content: "Develop";
+  }
+  57.3333333333334% {
+    content: "Develope";
+  }
+  58.6666666666667% {
+    content: "Developer";
+  }
+  60% {
+    content: "Developer";
+  }
+  61.3333333333334% {
+    content: "Developer";
+  }
+  62.6666666666667% {
+    content: "Developer";
+  }
+  64% {
+    content: "Developer";
+  }
+  65.3333333333334% {
+    content: "Developer";
+  }
+  66.6666666666667% {
+    content: "Developer";
+  }
+  68% {
+    content: "Developer";
+  }
+  69.3333333333334% {
+    content: "Develope";
+  }
+  70.6666666666667% {
+    content: "Develop";
+  }
+  72% {
+    content: "Develo";
+  }
+  73.3333333333333% {
+    content: "Devel";
+  }
+  74.6666666666667% {
+    content: "Deve";
+  }
+  76% {
+    content: "Dev";
+  }
+  77.3333333333333% {
+    content: "De";
+  }
+  78.6666666666667% {
+    content: "D";
+  }
+  80% {
+    content: "D";
+  }
+  81.3333333333333% {
+    content: "De";
+  }
+  82.6666666666666% {
+    content: "Des";
+  }
+  84% {
+    content: "Desi";
+  }
+  85.3333333333333% {
+    content: "Desig";
+  }
+  86.6666666666666% {
+    content: "Design";
+  }
+  88% {
+    content: "Designe";
+  }
+  89.3333333333333% {
+    content: "Designer";
+  }
+  90.6666666666666% {
+    content: "Designer";
+  }
+  91.9999999999999% {
+    content: "Designe";
+  }
+  93.3333333333333% {
+    content: "Design";
+  }
+  94.6666666666666% {
+    content: "Desig";
+  }
+  95.9999999999999% {
+    content: "Desi";
+  }
+  97.3333333333333% {
+    content: "Des";
+  }
+  98.6666666666666% {
+    content: "De";
+  }
+  99.9999999999999% {
+    content: "D";
+  }
+}
